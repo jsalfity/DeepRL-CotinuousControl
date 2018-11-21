@@ -21,8 +21,6 @@ The second version is useful for algorithms like [PPO](https://arxiv.org/pdf/170
 
 ### Solving the Environment
 
-Note that your project submission need only solve one of the two versions of the environment.
-
 #### Option 1: Solve the First Version
 
 The task is episodic, and in order to solve the environment,  your agent must get an average score of +30 over 100 consecutive episodes.
